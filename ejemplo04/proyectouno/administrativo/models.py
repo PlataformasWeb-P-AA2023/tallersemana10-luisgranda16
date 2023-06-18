@@ -26,7 +26,6 @@ class Estudiante(models.Model):
                 self.edad,
                 self.tipo_estudiante)
 
-
 class Modulo(models.Model):
     """
     """
